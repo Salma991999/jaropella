@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "659989587071",
+    "project_id": "jaropella-ad165",
+    "storage_bucket": "jaropella-ad165.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659989587071:android:3a2bdd6791266283594b4a",
+        "android_client_info": {
+          "package_name": "com.example.jaropella"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659989587071-fi8if2j50a1nr46cq93kfrk3n7e89i2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jaropella",
+            "certificate_hash": "b80d388b1c8109ff2120596874146dd9490f88f6"
+          }
+        },
+        {
+          "client_id": "659989587071-msp7hrg2ohgu6bcm8sqvj4slbjkpu6vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDv_TlL6PeKthgYWBjGiZD7NardDT1pw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659989587071-msp7hrg2ohgu6bcm8sqvj4slbjkpu6vv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
