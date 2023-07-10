@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>659989587071-1dckpoiq6d0q4sifagqfhue6leqmpq6p.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.659989587071-1dckpoiq6d0q4sifagqfhue6leqmpq6p</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>659989587071-fi8if2j50a1nr46cq93kfrk3n7e89i2c.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAzpeM0X9ql5bI7wki7sSz8m8sM0sqnPXA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>659989587071</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.jaropella</string>
+	<key>PROJECT_ID</key>
+	<string>jaropella-ad165</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jaropella-ad165.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:659989587071:ios:ac709c5e3480ce8a594b4a</string>
+</dict>
+</plist>
