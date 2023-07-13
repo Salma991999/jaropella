@@ -1,7 +1,6 @@
 
 import 'package:flutter/material.dart';
-
-import '../theme/app_colors.dart';
+import '../themes/app_colors.dart';
 import 'font_manager.dart';
 
 class AppText extends StatelessWidget {

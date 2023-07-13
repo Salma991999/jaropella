@@ -7,6 +7,7 @@ import 'package:get_storage/get_storage.dart';
 import 'core/lang/change_lang_controller.dart';
 import 'core/lang/translation.dart';
 import 'core/router/app_pages.dart';
+import 'core/themes/app_themes.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -29,10 +30,14 @@ class MyApp extends StatelessWidget {
     return GetMaterialApp(
       title: 'jaropilla',
       debugShowCheckedModeBanner: false,
+      // theme: AppThemes.light,
+      // darkTheme: AppThemes.dark,
+      // themeMode: AppThemes.themeMode(),
       translations: MyTranslations(),
       locale: ChangeLangApp.getCurrentLang(),
       initialRoute: AppPages.INITIAL,
-      // getPages: AppPages.routes,
+      getPages: AppPages.routes,
+
       // initialBinding: Binding(),
     );
   }

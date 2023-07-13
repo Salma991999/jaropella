@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import '../theme/app_colors.dart';
+
+import '../themes/app_colors.dart';
 
 class AppButton extends StatelessWidget {
   final double? height;
@@ -44,8 +45,8 @@ class AppButton extends StatelessWidget {
         onPressed: loading == true ? () {} : onPressed,
         clipBehavior: Clip.antiAliasWithSaveLayer,
         style: ElevatedButton.styleFrom(
-          disabledForegroundColor: AppColors.disableBottom,
-          disabledBackgroundColor: AppColors.disableBottom,
+          disabledForegroundColor: AppColors.transparent,
+          disabledBackgroundColor: AppColors.transparent,
           backgroundColor: isOutlineBorder ? backgroundColor : color ,
           elevation: 0,
           shape: RoundedRectangleBorder(
